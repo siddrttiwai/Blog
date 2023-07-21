@@ -1,0 +1,11 @@
+body{
+    color: hsla(0, 11%, 96%, 0.954);
+    font-family:Poppins;
+    text-align: center;
+    background-image: url(https://img.freepik.com/free-photo/black-concrete-wall-with-scratches_53876-108415.jpg?w=1060&t=st=1682143999~exp=1682144599~hmac=c5a801662cd127c649dca4b2434a4dc5c8f671ddd973a00d3be71ac4010ae355);
+}
+a{
+    color: greenyellow;
+    font-size: large;
+    border-style: solid;border-color: green;border-width: 5px;border-inline-color: blue;
+} 
